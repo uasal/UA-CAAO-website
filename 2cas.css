@@ -32,7 +32,7 @@ header{padding:0px 0px;}
 #logo{padding:0px;}
 input[type=checkbox] {position: absolute; top: 0px; left: 0px; background:none;}
 input[type=checkbox]:fous{background:none;}
-label {float:right; padding:20px 5px 0px 402px; display:inline-block; cursor:pointer; text-align: right; width: 1em; margin-right: 1em; }
+label {float:none; padding:20px 5px 0px 402px; display:inline-block; cursor:pointer; text-align: right; width: 1em; margin-right: 1em; }
 input[type=checkbox]:checked ~ nav {display:block;}
 
 nav{display:none; position:absolute; right:0px; top:53px; background-color:#002e5b; padding:0px; z-index:99;}
